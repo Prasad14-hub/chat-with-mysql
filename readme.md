@@ -8,8 +8,8 @@ This project contains code for building a natural language SQL chatbot using Ope
 
 ## ✨ Features of this chatbot
 
-✅ Natural Language Understanding – Uses GPT-4o to comprehend and process human-like queries.
-✅ Automated SQL Query Generation – Converts user input into optimized SQL queries dynamically.
+- **✅ Natural Language Understanding** – Uses GPT-4o to comprehend and process human-like queries.
+- **✅ Automated SQL Query Generation** – Converts user input into optimized SQL queries dynamically.
 ✅ Real-time Database Interaction – Executes queries and fetches results from a MySQL database.
 ✅ User-Friendly Streamlit UI – Provides an intuitive and interactive interface for seamless interactions.
 ✅ Python-Powered – Built with modern best practices, leveraging OpenAI's API, MySQL, and Streamlit.
