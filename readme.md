@@ -22,7 +22,7 @@ This project contains code for building a natural language SQL chatbot using Ope
 
 🔹 This entire process is automated, reducing the need for manual SQL expertise while ensuring accuracy and efficiency.
 
--**📌 Architecture Overview**
+- **📌 Architecture Overview**
 The chatbot integrates multiple components to function smoothly. Here's a high-level breakdown:
 
 ![Chatbot Architecture](./docs/mysql-chains.png)
