@@ -6,7 +6,13 @@ With a sleek Streamlit-based GUI, this chatbot transforms complex SQL queries in
 
 This project contains code for building a natural language SQL chatbot using OpenAI's GPT-4o llm model! This project guides you through the development of a chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of OpenAI's GPT-4o llm model, integrated with a Streamlit GUI for an enhanced interaction experience.
 
-## Features of this chatbot
+## ✨ Features of this chatbot
+
+✅ Natural Language Understanding – Uses GPT-4o to comprehend and process human-like queries.
+✅ Automated SQL Query Generation – Converts user input into optimized SQL queries dynamically.
+✅ Real-time Database Interaction – Executes queries and fetches results from a MySQL database.
+✅ User-Friendly Streamlit UI – Provides an intuitive and interactive interface for seamless interactions.
+✅ Python-Powered – Built with modern best practices, leveraging OpenAI's API, MySQL, and Streamlit.
 - **Natural Language Processing**: Uses GPT-4 to interpret and respond to user queries in natural language.
 - **SQL Query Generation**: Dynamically generates SQL queries based on the user's natural language input.
 - **Database Interaction**: Connects to a SQL database to retrieve query results, demonstrating practical database interaction.
