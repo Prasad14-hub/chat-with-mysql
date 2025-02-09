@@ -15,10 +15,10 @@ This project contains code for building a natural language SQL chatbot using Ope
 - **✅ Python-Powered** – Built with modern best practices, leveraging OpenAI's API, MySQL, and Streamlit.
 
 ## 🛠 How It Works
--**1️⃣ User Input** – The user enters a natural language query (e.g., "Show me the top 5 customers by revenue.").
--**2️⃣ GPT-4o Processing** – The model translates the input into a valid SQL query.
--**3️⃣ Database Execution** – The SQL query runs against the MySQL database.
--**4️⃣ Results Displayed** – The chatbot presents the results in an easy-to-read format.
+- **1️⃣ User Input** – The user enters a natural language query (e.g., "Show me the top 5 customers by revenue.").
+- **2️⃣ GPT-4o Processing** – The model translates the input into a valid SQL query.
+- **3️⃣ Database Execution** – The SQL query runs against the MySQL database.
+- **4️⃣ Results Displayed** – The chatbot presents the results in an easy-to-read format.
 
 🔹 This entire process is automated, reducing the need for manual SQL expertise while ensuring accuracy and efficiency.
 
